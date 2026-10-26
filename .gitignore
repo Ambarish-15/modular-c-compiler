@@ -1,0 +1,28 @@
+
+# Compiled programs and object files
+*.exe
+*.o
+*.obj
+*.out
+*.dll
+*.a
+
+# Generated assembly
+*.s
+
+# Build output
+build/
+dist/
+bin/
+
+# Editor and operating system files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
+*.bak
